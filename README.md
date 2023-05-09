@@ -1,2 +1,2 @@
 # Power-BI-Dashboard
-This is my first project on Power Bi.Covid-19 Dataset is used for this. 
+This is Data analysis project by using Power Bi Tool. Covid-19 dataset is used for analysis.
